@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>My HTML Draft with partner</title>
+</head>
+<body>
+     <h1>Welcome to Our Website</h1>
+     <p>My name is Mr. Hilvano with my partner Mr. Eli and this is our website.</p>
+     <p>We like playing online games and listening to music.</p>
+
+     <h2>Our Hobbies</h2>
+     <ul>
+        <li>Badminton</li>
+        <li>Listen to music</li>
+        <li>ML/Mobile Legends</li>
+     </ul>
+     <h2>Our Favorite Foods</h2>
+     <ol>
+        <li>Potatoe corner</li>
+        <li>Sinigang na Baboy</li>
+        <li>Carbonara</li>
+     </ol>
+     <h2>Our Favorite Songs</h2>
+     <li>Hangang Kailan - Umuwi Ka na Baby by: Orange and Lemons</li>
+     <li>Leaves By: Ben&Ben</li>
+     <li>Mundo By: IV Of Spades</li>
+     <li>(They Long To Be) Close To You By: Carpenters</li>
+     <h2>Our Social Media Profiles</h2>
+     <ul>
+        <li><a href="https://www.facebook.com/elijohann</a></li>
+        <li><a href="https://www.facebook.com/gavin.hilvano.3</a></li>
+     </ul>
+     <br>
+     <nav>
+         <ul>
+           <li><a href="Home.html">Home</a></li>
+           <li><a href="About.html">About</a></li>
+           <li><a href="Contactus.html">Contact Us</a></li>
+         </ul>
+     </nav>
+     <br>
+     <footer>
+            <p>&copy; 2024 Gavin Hilvano & Eli Johann. All Rights Resereved.</p>
+     </footer>
+</body>
+</html>
